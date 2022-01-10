@@ -1,2 +1,2 @@
-# libfvio-qt
-Qt Frontend for libvfio
+# arc-manager
+A graphical manager for arcd and libvf.io
